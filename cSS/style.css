@@ -1,0 +1,41 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 80%;
+    background-color: aqua;
+    margin: auto;
+}
+
+.one {
+    width: 800px;
+    height: 100px;
+    margin: auto;
+
+}
+
+.two {
+    width: 800px;
+    height: 100px;
+    margin: auto;
+}
+
+.box1 {
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    float: left;
+    color: white;
+    font-size: 80px;
+    object-fit: cover;
+}
+
+.box2 {
+    height: 100px;
+    width: 100px;
+    background-color: grey;
+    float: left;
+}
